@@ -1,0 +1,11 @@
+.DS_Store
+/.claude
+/.env
+/agent-harness.md
+/bug-summary-workspace
+/doc
+/doc.md
+/evals
+/link-fetcher.zip
+/wiki-creator/evals/
+/wiki-creator-workspace
