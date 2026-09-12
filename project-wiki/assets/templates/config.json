@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "profile": "custom",
+  "sources": ["."],
+  "extensions": [".md", ".txt", ".rst"],
+  "exclude": ["node_modules/**", "dist/**", "build/**", "vendor/**"],
+  "page_dirs": {"topic": "topics", "entity": "entities", "concept": "concepts"},
+  "max_source_bytes": 1048576
+}

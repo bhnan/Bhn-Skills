@@ -1,0 +1,6 @@
+interface:
+  display_name: "Project Wiki"
+  short_description: "Create and query scene-specific local project Wikis"
+  default_prompt: "Use $project-wiki to initialize a customized .wiki for this workspace and its existing documents."
+policy:
+  allow_implicit_invocation: true
