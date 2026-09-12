@@ -4,6 +4,7 @@
 
 | 技能 | 入口 |
 | --- | --- |
+| ai-native-sdlc | [按需求组织开发流程与完成后的变更记录](ai-native-sdlc/SKILL.md) |
 | project-wiki | [项目内 Wiki：定制初始化、按需检索、资料消化与增量维护](project-wiki/SKILL.md) |
 | bug-summary | [Bug Summary](bug-summary/SKILL.md) |
 | link-fetcher | [Link Fetcher](link-fetcher/SKILL.md) |
