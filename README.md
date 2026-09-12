@@ -5,11 +5,12 @@
 | 技能 | 入口 |
 | --- | --- |
 | project-wiki | [项目内 Wiki：定制初始化、按需检索、资料消化与增量维护](project-wiki/SKILL.md) |
-| wiki-creator | [Wiki Creator](wiki-creator/SKILL.md) |
 | bug-summary | [Bug Summary](bug-summary/SKILL.md) |
 | link-fetcher | [Link Fetcher](link-fetcher/SKILL.md) |
 
 ## Project Wiki
+
+`project-wiki` 已替代原 `wiki-creator`；旧版本保留在 Git 历史中。
 
 在项目内使用单个 `.wiki/` 目录组织知识。支持软件、研究、业务及自定义场景，也适用于非 Git 文件夹。软件场景可以消化 ai-native-sdlc 的需求文档与后续变更记录。
 
